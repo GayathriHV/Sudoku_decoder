@@ -1,20 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Farheen112004/Sudoku-solver/blob/main/thumbnail.png" width="256" height="256">
-  <h2 align="center" style="margin-top: -4px !important;">Sudoku Solver: Unleash the Solution!</h2>
-  <p align="center">
-    <a href="https://github.com/Farheen112004/Sudoku-solver/blob/main/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-informational">
-    </a>
-    <a href="https://www.python.org/">
-    	<img src="https://img.shields.io/badge/python-v3.8-informational">
-    </a>
-  </p>
-</p>
-<p align="center">
-	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-</p>
-
-
+**Sudoku Decoder**
 
 - Are you ready to put your logical thinking and reasoning skills to the test? Look no further than Sudoku Solver, the ultimate tool for solving Sudoku puzzles quickly and easily.
 
@@ -34,10 +18,6 @@ To use Sudoku Solver, simply download the repository and run the SudokuGUI.py fi
 
 If you get stuck on a tricky puzzle, press the Spacebar key to solve the board using the backtracking algorithm. You can also receive hints by pressing the "h" key, which will display a random correct value on the board.
 
-<p align="center">
-	<img src="https://github.com/Farheen112004/Sudoku-solver/blob/main/Visualizer.gif">
-</p>
-
 ## Input:
 
 | Keys              | Actions                                                         |
@@ -52,22 +32,6 @@ If you get stuck on a tricky puzzle, press the Spacebar key to solve the board u
 To run Sudoku Solver, you'll need to have Python and PyGame installed on your system. You can install the necessary requirements using pip:
 ```
 pip install -r requirements.txt
-```
-
-## Execution:
-- Clone this repository using
-```
-git clone https://github.com/Farheen112004/Sudoku-solver/tree/main
-```
-**OR**
-- Zip Download the Repository and Extract it's contents.
-- Now run the [SudokuGUI](https://github.com/Farheen112004/Sudoku-solver/blob/main/SudokuGUI.py) file directly in your Terminal using
-```
-python SudokuGUI.py
-```
-**OR**
-```
-python3 SudokuGUI.py
 ```
 
 ## Conclusion:
